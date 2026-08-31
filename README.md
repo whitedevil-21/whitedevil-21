@@ -3,8 +3,8 @@
 </div>
 <div align="center">
   
-  [![Visitor Count](https://komarev.com/ghpvc/?username=whitedevil-21&style=flat-square&color=blueviolet)](https://github.com/whitedevil-21)
-  [![GitHub followers](https://img.shields.io/github/followers/whitedevil-21?label=Followers&style=social)](https://github.com/whitedevil-21)
+  [![Visitor Count](https://komarev.com/ghpvc/?username=amit-devi&style=flat-square&color=blueviolet)](https://github.com/amit-devi)
+  [![GitHub followers](https://img.shields.io/github/followers/amit-devi?label=Followers&style=social)](https://github.com/amit-devi)
 
   <h3>👨‍💻 "I create Hacking Tools for Educational Purposes"</h3>
 </div>
@@ -39,11 +39,11 @@
 
 | Project Name | Description | Language |
 | :--- | :--- | :--- |
-| **[PDF-CRACKER](https://github.com/whitedevil-21/PDF-CRACKER)** | Advanced PDF Password recovery tool. | ![Shell](https://img.shields.io/badge/-Shell-Black) |
-| **[WIFI-CRACKER](https://github.com/whitedevil-21/WIFI-CRACKER)** | Retrieve saved passwords from local systems. | ![Python](https://img.shields.io/badge/-Python-blue) |
-| **[ZIP-CRACKER](https://github.com/whitedevil-21/ZIP-CRACKER)** | Unlock password-protected ZIP files. | ![Shell](https://img.shields.io/badge/-Shell-Black) |
-| **[FOLDER-VIRUS](https://github.com/whitedevil-21/FOLDER-VIRUS)** | Creating a 32000+ folders in any path of location in the PC for one click | ![Shell](https://img.shields.io/badge/-Shell-Black) |
-| **[WINDOWS-ACTIVATION](https://github.com/whitedevil-21/WINDOWS-ACTIVATION)** | KMS Activation script for Windows 10/11. | ![Batch](https://img.shields.io/badge/-Batch-gray) |
+| **[PDF-CRACKER](https://github.com/amit-devi/PDF-CRACKER)** | Advanced PDF Password recovery tool. | ![Shell](https://img.shields.io/badge/-Shell-Black) |
+| **[WIFI-CRACKER](https://github.com/amit-devi/WIFI-CRACKER)** | Retrieve saved passwords from local systems. | ![Python](https://img.shields.io/badge/-Python-blue) |
+| **[ZIP-CRACKER](https://github.com/amit-devi/ZIP-CRACKER)** | Unlock password-protected ZIP files. | ![Shell](https://img.shields.io/badge/-Shell-Black) |
+| **[FOLDER-VIRUS](https://github.com/amit-devi/FOLDER-VIRUS)** | Creating a 32000+ folders in any path of location in the PC for one click | ![Shell](https://img.shields.io/badge/-Shell-Black) |
+| **[WINDOWS-ACTIVATION](https://github.com/amit-devi/WINDOWS-ACTIVATION)** | KMS Activation script for Windows 10/11. | ![Batch](https://img.shields.io/badge/-Batch-gray) |
 
 ---
 ### 💻 Tech Stack
